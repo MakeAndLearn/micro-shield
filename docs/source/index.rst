@@ -1,9 +1,7 @@
 Banvinguts a la pàgina de la documentació de la micro:shield!
 ===================================
-
-Lumache has its documentation hosted on Read the Docs.
-
-This is a test.
+Welcome to Lumache's documentation!
+===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -15,14 +13,12 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   Aquest projecte està en construcció.
+   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: MICROSHIELD
 
    usage
    api
