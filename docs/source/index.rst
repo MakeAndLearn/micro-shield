@@ -17,6 +17,6 @@ Contents
    :caption: MICROSHIELD
 
    microshield/informaciogeneral
-   microshield/entornsprogramació
+   microshield/entornsprogramacio
    microshield/programaciocomponentsplaca
    microshield/programacioelementsexterns
