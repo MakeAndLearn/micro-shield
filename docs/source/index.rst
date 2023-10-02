@@ -21,6 +21,6 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
+   :maxdepth: 2
+   :caption: MICRO:SHIELD
+      
