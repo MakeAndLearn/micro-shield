@@ -16,6 +16,7 @@ Contents
 .. toctree::
    :caption: MICROSHIELD
 
-   usage
-   api
    microshield/informaciogeneral
+   microshield/entornsprogramació
+   microshield/programaciocomponentsplaca
+   microshield/programacioelementsexterns
