@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Banvinguts a la pàgina de la documentació de la micro:shield!
 ===================================
 
 Lumache has its documentation hosted on Read the Docs.
@@ -15,7 +15,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Aquest projecte està en construcció.
 
 Contents
 --------
