@@ -16,5 +16,5 @@ Contents
 .. toctree::
    :caption: MICROSHIELD
 
-   usage
-   api
+   source/usage
+   source/api
