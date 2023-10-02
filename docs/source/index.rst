@@ -1,12 +1,7 @@
-Banvinguts a la pàgina de la documentació de la micro:shield!
-===================================
-Welcome to Lumache's documentation!
+Banvinguts a la pàgina de  documentació de la micro:shield!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Microshield** (/lu'make/) és una extensió per a micro:bit. Es pot programar des de l'entorn de programació de makecode o desde l'editor de python de micro:bit.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -19,6 +14,7 @@ Contents
 --------
 
 .. toctree::
+   :caption: MICROSHIELD
 
    usage
    api
