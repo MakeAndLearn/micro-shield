@@ -22,5 +22,5 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: MICRO:SHIELD
+   :caption: MICROSHIELD
       
