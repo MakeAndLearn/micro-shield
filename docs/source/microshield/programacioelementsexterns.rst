@@ -4,56 +4,46 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: image.png
+.. image:: falta.png
   :width: 400
   :alt: Alternative text
 
 Entrades/sortides analògiques
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: falta.png
+  :width: 400
+  :alt: Alternative text
 
 
 Servos
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: SERV0.png
+  :width: 400
+  :alt: Alternative text
 
 
 Motor DC
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: falta.png
+  :width: 400
+  :alt: Alternative text
 
 
 Motor pas a pas
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: falta.png
+  :width: 400
+  :alt: Alternative text
 
 
 I2C
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: falta.png
+  :width: 400
+  :alt: Alternative text
 
