@@ -26,12 +26,25 @@ Bateria
 
 La micro:shield disposa d’una bateria recarregable de 2200 mAh 3.7 V que es pot carregar mitjançant un cable USB.
 
-Porta Connector mini JST i Connector MicroUsb
+La micro:shield disposa d’un connector jack per poder connectar una alimentació externa a la placa amb un voltatge d’entre 6,5 i 9 V. 
+
+·unordered item
+
+    1. Bateria recarregable
+    2. Interruptor general ON/OFF
+    3. Connector USB per carregar la bateria
+    4. Connector jack per d’alimentació externa (6,5-9 V)
 
 Interruptors
 ----------
 
-Els botons són un dispositiu d'entrada molt comú. El teu microbit té dos botons que pots programar, i un botó de reinici.
+La micro:shield disposa de 3 interruptors que tenen diferent utilitat. A continuació s’explica la utilitat dels dos que no s’han comentat. L’interruptor ON/OFF està explicat a l’apartat de la bateria en més detall.
+
+·unordered item
+
+    1. Interruptor 3V-5V
+    2. Interruptor ON/OFF
+    3. Interruptor PIN0-Buzzer
 
 LEDS
 ----------
