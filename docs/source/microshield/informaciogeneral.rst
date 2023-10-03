@@ -38,8 +38,6 @@ Interruptors
 
 La micro:shield disposa de 3 interruptors que tenen diferent utilitat.
 
-·unordered item
-
     1. Interruptor 3V-5V
     2. Interruptor ON/OFF
     3. Interruptor PIN0-Buzzer
@@ -59,13 +57,9 @@ Connexions
 
 La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La micro:shield, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la micro:bit amb diferents voltatges i amb diferents components externs.
 
-·unordered item
-
     1. Connectors alligator
     2. Pins GVS 3 V
     3. Pins GVS Servomotors
     4. Pins GVS 3 V - 5 V
     5. Ports motors DC
     6. Connectors motors pas a pas
-
-
