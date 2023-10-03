@@ -63,7 +63,7 @@ La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàc
 
 ·unordered item
 
-    1.Connectors alligator
+    1. Connectors alligator
     2. Pins GVS 3 V
     3. Pins GVS Servomotors
     4. Pins GVS 3 V - 5 V
