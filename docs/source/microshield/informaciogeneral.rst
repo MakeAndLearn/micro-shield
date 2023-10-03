@@ -19,7 +19,7 @@ A més, aquesta placa d’extensió, incorpora diferents components que la fan i
 Dimensions
 ----------
 
-51,60 mm (a) 42,00 mm (h) 11,65 mm (d), profunditat del botó a la placa 4,55 mm, profunditat de l'altaveu a la placa 3,00 mm, connector JST a la placa 5,50 mm
+80 x 80 mm o 8 x 8 cm
 
 Bateria
 -------
@@ -38,7 +38,7 @@ La micro:shield disposa d’un connector jack per poder connectar una alimentaci
 Interruptors
 ----------
 
-La micro:shield disposa de 3 interruptors que tenen diferent utilitat. A continuació s’explica la utilitat dels dos que no s’han comentat. L’interruptor ON/OFF està explicat a l’apartat de la bateria en més detall.
+La micro:shield disposa de 3 interruptors que tenen diferent utilitat.
 
 ·unordered item
 
@@ -49,20 +49,25 @@ La micro:shield disposa de 3 interruptors que tenen diferent utilitat. A continu
 LEDS
 ----------
 
-Un LED és un díode d'emissió de llum, és un dispositiu de sortida que emet llum. El teu BBC micro: bit té una pantalla de 25 LED que podràs programar.
+La micro:shield té 4 LEDs Neopixel situats davant de la ranura on s'insereix la micro:bit. Aquests LEDs, que estan connectats internament a la placa a través del pin P16, es programaran igual que una tira de LEDs Neopixel.
 
 Bruzidors
 ----------
 
-El més senzill que podem connectar al micro:bit és un timbre Pizzo. Hi ha dos tipus de timbres piezoelèctrics. El tipus més senzill d'utilitzar s'anomena timbres actius. Els timbres actius contenen un oscil·lador que produeix un to a un to predeterminat quan hi passa un corrent. Els timbres passius requereixen que passi un corrent oscil·lant a través d'ells per produir un to a la freqüència de l'oscil·lació. En resum, els timbres actius són senzills d'd'usar, però només produeixen un to, mentre que els timbres passius són una mica més complicats d'utilitzar, però poden produir una varietat de tons.
-
-El micro:bit V2 té un altaveu integrat situat a la part posterior de la placa.
+La micro:shield disposa d’un brunzidor i un connector jack connectats al pin P0. Si no hi ha res connectat al port jack quan programem música sonarà el brunzidor intern de la placa. En connectar uns auriculars o un altaveu al port jack, el brunzidor deixarà de funcionar i sentirem la música pel perifèric connectat.
 
 Connexions
 ----------
 
-Hi ha tires de metall al llarg de la vora inferior del micro:bit de la BBC que fan que sembli com si el dispositiu tingués dents. Aquests són els pins d'entrada/sortida (o pins d'E/S per abreujar).
+La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La micro:shield, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la micro:bit amb diferents voltatges i amb diferents components externs.
 
-Alguns dels pins són més grans que d'altres, de manera que és possible enganxar-hi pinces de cocodril. Aquests són els etiquetats 0, 1, 2, 3V i GND (els ordinadors sempre comencen a comptar des de zero). Si connecteu una placa de connector de vora al dispositiu, és possible connectar cables connectats als altres pins (més petits).
+·unordered item
 
-A l'últim micro:bit V2, el logotip de micro:bit també es pot utilitzar com a entrada tàctil.
+    1.Connectors alligator
+    2. Pins GVS 3 V
+    3. Pins GVS Servomotors
+    4. Pins GVS 3 V - 5 V
+    5. Ports motors DC
+    6. Connectors motors pas a pas
+
+
