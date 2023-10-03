@@ -4,12 +4,9 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
-
+.. image:: path/image.png
+  :width: 400
+  :alt: Alternative text
 
 Entrades/sortides analògiques
 ------------
