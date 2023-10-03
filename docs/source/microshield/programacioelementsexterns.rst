@@ -4,7 +4,7 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: path/image.png
+.. image:: image.png
   :width: 400
   :alt: Alternative text
 
