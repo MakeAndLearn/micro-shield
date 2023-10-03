@@ -4,7 +4,7 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: falta.png
+.. image:: path/falta.png
   :width: 400
   :alt: Alternative text
 
@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: SERV0.png
+.. image:: path/SERV0.png
   :width: 400
   :alt: Alternative text
 
