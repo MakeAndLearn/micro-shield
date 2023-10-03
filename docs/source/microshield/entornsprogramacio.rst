@@ -23,5 +23,3 @@ Python editor
 Python és un excel·lent primer llenguatge basat en text per aprendre. Les seves instruccions i sintaxi es basen en llenguatge natural, cosa que fa que el codi sigui fàcil de llegir, comprendre i modificar.
 
 A més d'utilitzar-se àmpliament a l'educació, s'utilitza a la indústria, especialment a les àrees de ciència de dades i aprenentatge automàtic. Python no només és usat pels desenvolupadors de programari, sinó també per persones que treballen en camps tan diversos com la medicina, la física i les finances.
-
-Python a la BBC micro:bit aporta els avantatges de la informàtica física als estudiants d'entre 11 i 14 anys, aprenent els fonaments de la programació mitjançant la codificació basada en text: experiències immersives i creatives per als estudiants que ajuden a generar compromís i coneixement.
