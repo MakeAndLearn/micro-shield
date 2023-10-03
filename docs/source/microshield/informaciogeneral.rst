@@ -4,11 +4,17 @@ Informació general de la placa
 Descripció
 ----------
 
-Benvingut!
+.. figure: image.png
+    :height: 100px
+    :width: 100px
+    :align:bottom
+    :target: target
 
-El micro:bit de la BBC és un petit dispositiu informàtic per a nens. Un dels llenguatges que entén és el popular llenguatge de programació Python. La versió de Python que s'executa a la BBC micro:bit s'anomena MicroPython.
+La micro:shield és una placa d’extensió que permet ampliar les possibilitats de la micro:bit fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
-Connecteu el vostre micro:bit a l'ordinador mitjançant un cable USB per començar a jugar i aprendre molt.
+Connecteu el vostre micro:shield a l'ordinador mitjançant un cable USB per començar a jugar i aprendre molt.
+
+A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen a continuació: 
 
 Dimensions
 ----------
@@ -18,7 +24,7 @@ Dimensions
 Bateria
 -------
 
-Opcional Bateria de Liti de 3,7 V. y 2800 mAh.
+La micro:shield disposa d’una bateria recarregable de 2200 mAh 3.7 V que es pot carregar mitjançant un cable USB.
 
 Porta Connector mini JST i Connector MicroUsb
 
