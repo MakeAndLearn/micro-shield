@@ -19,9 +19,9 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: microshield/imatges/SERV0.png
+.. image:: docs/source/microshield/imatges/SERV0.png
   :width: 400
-  :alt: Alternative text
+  :alt: SERVOMOTOR
 
 
 Motor DC
