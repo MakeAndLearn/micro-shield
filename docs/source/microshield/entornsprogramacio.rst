@@ -1,11 +1,11 @@
 Entorns de programació
 =====
-.. image:: INICIO_3.png
-  :width: 400
-  :alt: IO DIGITAL
 
 Makecode
 ------------
+.. image:: INICIO_3.png
+  :width: 400
+  :alt: IO DIGITAL
 
 Microsoft MakeCode és una plataforma gratuïta de codi obert per crear experiències didàctiques sobre informàtica, que ofereixen un mètode progressiu per introduir-se a la programació.
 
