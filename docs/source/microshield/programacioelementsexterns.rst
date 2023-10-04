@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: SERV0.png
+.. image:: images/SERV0.png
   :width: 400
   :alt: SERVOMOTOR
 
