@@ -5,9 +5,9 @@ Programació elements de la placa
 Brunzidor
 ------------
 
-.. image:: path/falta.png
+.. image:: BRUNZIDOR.png
   :width: 400
-  :alt: Alternative text
+  :alt: BRUNZIDOR
 
 
 LEDS RGB
