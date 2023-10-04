@@ -16,12 +16,9 @@ També es coneix com a llenguatge de programació gràfic i és compatible amb t
 
 Python editor
 ------------
-
-..   image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: tarjet
+.. image:: INICIO_5.png
+  :width: 400
+  :alt: IO DIGITAL
 
 Python és un excel·lent primer llenguatge basat en text per aprendre. Les seves instruccions i sintaxi es basen en llenguatge natural, cosa que fa que el codi sigui fàcil de llegir, comprendre i modificar.
 
