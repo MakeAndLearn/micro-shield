@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: SERV0.png
+.. image:: path/SERV0.png
   :width: 400
   :alt: SERVOMOTOR
 
@@ -29,15 +29,15 @@ Motor DC
 
 .. image:: falta.png
   :width: 400
-  :alt: Alternative text
+  :alt: MOTOR DC
 
 
 Motor pas a pas
 ------------
 
-.. image:: falta.png
+.. image:: MOTOR DC.png
   :width: 400
-  :alt: Alternative text
+  :alt: MOTOR PAP
 
 
 I2C
