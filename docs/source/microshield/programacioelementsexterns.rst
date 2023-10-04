@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: path/SERV0.png
+.. image:: SERV0.png
   :width: 400
   :alt: SERVOMOTOR
 
@@ -27,7 +27,7 @@ Servos
 Motor DC
 ------------
 
-.. image:: falta.png
+.. image:: MOTOR DC.png
   :width: 400
   :alt: MOTOR DC
 
