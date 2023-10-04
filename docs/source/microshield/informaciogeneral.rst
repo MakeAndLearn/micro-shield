@@ -28,14 +28,14 @@ La micro:shield disposa d’una bateria recarregable de 2200 mAh 3.7 V que es po
 
 La micro:shield disposa d’un connector jack per poder connectar una alimentació externa a la placa amb un voltatge d’entre 6,5 i 9 V. 
 
-.. image:: BATERIA.png
-  :width: 400
-  :alt: BATERIA
-
     1. Bateria recarregable
     2. Interruptor general ON/OFF
     3. Connector USB per carregar la bateria
     4. Connector jack per d’alimentació externa (6,5-9 V)
+
+.. image:: BATERIA.png
+  :width: 400
+  :alt: BATERIA
 
 Interruptors
 ----------
