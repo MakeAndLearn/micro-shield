@@ -1,5 +1,8 @@
 Entorns de programació
 =====
+.. image:: INICIO_3.png
+  :width: 400
+  :alt: IO DIGITAL
 
 Makecode
 ------------
