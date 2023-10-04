@@ -4,14 +4,14 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: IO DIGITAL.png
+.. image:: IODIGITAL.png
   :width: 400
   :alt: IO DIGITAL
 
 Entrades/sortides analògiques
 ------------
 
-.. image:: IO ANALOG.png
+.. image:: IOANALOG.png
   :width: 400
   :alt: IO ANALOGIC
 
@@ -27,7 +27,7 @@ Servos
 Motor DC
 ------------
 
-.. image:: MOTOR DC.png
+.. image:: MOTOR_DC.png
   :width: 400
   :alt: MOTOR DC
 
@@ -35,7 +35,7 @@ Motor DC
 Motor pas a pas
 ------------
 
-.. image:: MOTOR PAP.png
+.. image:: MOTOR_PAP.png
   :width: 400
   :alt: MOTOR PAP
 
