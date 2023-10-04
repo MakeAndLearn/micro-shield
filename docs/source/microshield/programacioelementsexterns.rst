@@ -35,7 +35,7 @@ Motor DC
 Motor pas a pas
 ------------
 
-.. image:: MOTOR DC.png
+.. image:: micro-shield/docs/source/microshield/imatges/MOTOR PAP.png
   :width: 400
   :alt: MOTOR PAP
 
