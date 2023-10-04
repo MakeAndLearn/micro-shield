@@ -4,24 +4,24 @@ Programació d'elements en els diferents connectors
 Entrades/sortides digitals
 ------------
 
-.. image:: path/falta.png
+.. image:: IO DIGITAL.png
   :width: 400
-  :alt: Alternative text
+  :alt: IO DIGITAL
 
 Entrades/sortides analògiques
 ------------
 
-.. image:: falta.png
+.. image:: IO ANALOG.png
   :width: 400
-  :alt: Alternative text
+  :alt: IO ANALOGIC
 
 
 Servos
 ------------
 
-.. image:: SERV0.png
+.. image:: SERV0S.png
   :width: 400
-  :alt: SERVOMOTOR
+  :alt: SERVOMOTORES
 
 
 Motor DC
