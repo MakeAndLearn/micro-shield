@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: path/SERV0.png
+.. image:: micro-shield/docs/source/microshield/SERV0.png
   :width: 400
   :alt: SERVOMOTOR
 
@@ -27,7 +27,7 @@ Servos
 Motor DC
 ------------
 
-.. image:: microshield/imatges/MOTOR DC.png
+.. image:: micro-shield/docs/source/microshield/MOTOR DC.png
   :width: 400
   :alt: MOTOR DC
 
@@ -35,7 +35,7 @@ Motor DC
 Motor pas a pas
 ------------
 
-.. image:: imatges/MOTOR PAP.png
+.. image:: path/MOTOR PAP.png
   :width: 400
   :alt: MOTOR PAP
 
