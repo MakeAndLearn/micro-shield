@@ -1,11 +1,11 @@
 Informació general de la placa
 ==============================
-.. image:: DESCRIP.png
-  :width: 400
-  :alt: BRUNZIDOR
 
 Descripció
 ----------
+.. image:: DESCRIP.png
+  :width: 400
+  :alt: DESCRIPCIO
 
 La micro:shield és una placa d’extensió que permet ampliar les possibilitats de la micro:bit fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
@@ -15,11 +15,17 @@ A més, aquesta placa d’extensió, incorpora diferents components que la fan i
 
 Dimensions
 ----------
+.. image:: DIMENS.png
+  :width: 400
+  :alt: DIMENSIONS
 
 80 x 80 mm o 8 x 8 cm
 
 Bateria
 -------
+.. image:: BATERIA.png
+  :width: 400
+  :alt: BATERIA
 
 La micro:shield disposa d’una bateria recarregable de 2200 mAh 3.7 V que es pot carregar mitjançant un cable USB.
 
