@@ -5,18 +5,14 @@ Programació elements de la placa
 Brunzidor
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: path/falta.png
+  :width: 400
+  :alt: Alternative text
 
 
 LEDS RGB
 ------------
 
-.. image:: image.png
-    :height: 100px
-    :width: 100px
-    :align: bottom
-    :target: target
+.. image:: path/LEDS.png
+  :width: 400
+  :alt: LEDS RGB
