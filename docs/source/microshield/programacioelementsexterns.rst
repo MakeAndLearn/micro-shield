@@ -27,7 +27,7 @@ Servos
 Motor DC
 ------------
 
-.. image:: micro-shield/docs/source/microshield/MOTOR DC.png
+.. image:: MOTOR DC.png
   :width: 400
   :alt: MOTOR DC
 
@@ -35,7 +35,7 @@ Motor DC
 Motor pas a pas
 ------------
 
-.. image:: path/MOTOR PAP.png
+.. image:: MOTOR PAP.png
   :width: 400
   :alt: MOTOR PAP
 
