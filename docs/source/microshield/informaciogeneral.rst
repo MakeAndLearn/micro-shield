@@ -46,15 +46,27 @@ La micro:shield disposa de 3 interruptors que tenen diferent utilitat.
     2. Interruptor ON/OFF
     3. Interruptor PIN0-Buzzer
 
+.. image:: INTERRUP.png
+  :width: 400
+  :alt: INTERRUPTORS
+
 LEDS
 ----------
 
 La micro:shield té 4 LEDs Neopixel situats davant de la ranura on s'insereix la micro:bit. Aquests LEDs, que estan connectats internament a la placa a través del pin P16, es programaran igual que una tira de LEDs Neopixel.
 
+.. image:: NEOLEDS.png
+  :width: 400
+  :alt: LEDS
+
 Bruzidors
 ----------
 
 La micro:shield disposa d’un brunzidor i un connector jack connectats al pin P0. Si no hi ha res connectat al port jack quan programem música sonarà el brunzidor intern de la placa. En connectar uns auriculars o un altaveu al port jack, el brunzidor deixarà de funcionar i sentirem la música pel perifèric connectat.
+
+.. image:: BRUZIDOR.png
+  :width: 400
+  :alt: BRUZIDOR
 
 Connexions
 ----------
@@ -67,3 +79,7 @@ La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàc
     4. Pins GVS 3 V - 5 V
     5. Ports motors DC
     6. Connectors motors pas a pas
+
+.. image:: CONNEX.png
+  :width: 400
+  :alt: CONNEXIONS
