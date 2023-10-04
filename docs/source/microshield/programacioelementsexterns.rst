@@ -43,7 +43,7 @@ Motor pas a pas
 I2C
 ------------
 
-.. image:: falta.png
+.. image:: I2C.png
   :width: 400
-  :alt: Alternative text
+  :alt: I2C
 
