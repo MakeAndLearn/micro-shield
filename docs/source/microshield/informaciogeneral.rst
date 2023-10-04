@@ -1,14 +1,11 @@
 Informació general de la placa
 ==============================
+.. image:: DESCRIP.png
+  :width: 400
+  :alt: BRUNZIDOR
 
 Descripció
 ----------
-
-.. figure: image.png
-    :height: 100px
-    :width: 100px
-    :align:bottom
-    :target: target
 
 La micro:shield és una placa d’extensió que permet ampliar les possibilitats de la micro:bit fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
