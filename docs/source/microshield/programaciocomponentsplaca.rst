@@ -13,6 +13,6 @@ Brunzidor
 LEDS RGB
 ------------
 
-.. image:: path/LEDS.png
+.. image:: LEDS.png
   :width: 400
   :alt: LEDS RGB
