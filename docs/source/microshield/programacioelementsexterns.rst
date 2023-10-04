@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: docs/source/microshield/imatges/SERV0.png
+.. image:: path/imatges/SERV0.png
   :width: 400
   :alt: SERVOMOTOR
 
