@@ -19,7 +19,7 @@ Entrades/sortides analògiques
 Servos
 ------------
 
-.. image:: images/SERV0.png
+.. image:: imatges/SERV0.png
   :width: 400
   :alt: Alternative text
 
