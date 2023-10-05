@@ -26,6 +26,7 @@ Servos
   :width: 400
   :alt: SERVOMOTORES
 
+<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:S09192-70833-86317-95292" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 Motor DC
 ------------
@@ -34,6 +35,7 @@ Motor DC
   :width: 400
   :alt: MOTOR DC
 
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S03751-85139-23360-20565" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 Motor pas a pas
 ------------
