@@ -6,6 +6,7 @@ Makecode
 .. image:: INICIO_3.png
   :width: 400
   :alt: IO DIGITAL
+  :align: center
 
 Microsoft MakeCode és una plataforma gratuïta de codi obert per crear experiències didàctiques sobre informàtica, que ofereixen un mètode progressiu per introduir-se a la programació.
 
@@ -19,6 +20,7 @@ Python editor
 .. image:: INICIO_5.png
   :width: 400
   :alt: IO DIGITAL
+  :align: center
 
 Python és un excel·lent primer llenguatge basat en text per aprendre. Les seves instruccions i sintaxi es basen en llenguatge natural, cosa que fa que el codi sigui fàcil de llegir, comprendre i modificar.
 
