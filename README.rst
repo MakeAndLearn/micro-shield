@@ -1,7 +1,9 @@
 Template for the Read the Docs tutorial
 =======================================
 
-This GitHub template includes fictional Python library
+Thi template is used to build https://micro-shield.readthedocs.io/ca/latest/
+
+This GitHub template for includes fictional Python library
 with some basic Sphinx docs.
 
 Read the tutorial here:
