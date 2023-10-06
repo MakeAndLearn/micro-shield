@@ -20,7 +20,6 @@ Python editor
 .. image:: INICIO_5.png
   :width: 400
   :alt: IO DIGITAL
-  :align: middle
 
 Python és un excel·lent primer llenguatge basat en text per aprendre. Les seves instruccions i sintaxi es basen en llenguatge natural, cosa que fa que el codi sigui fàcil de llegir, comprendre i modificar.
 
