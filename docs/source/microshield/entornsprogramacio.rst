@@ -14,7 +14,7 @@ Microsoft MakeCode és un editor en línia basat a la web que us permet crear pr
 
 També es coneix com a llenguatge de programació gràfic i és compatible amb tots els navegadors i plataformes web moderns.
 
-COM AGREGAR LLIBRERIES
+Però perquè funcioni amb la nostra llibreria farem una explicació a continuació:
 
 .. image:: LIBRERIAS_0.png
   :width: 400
