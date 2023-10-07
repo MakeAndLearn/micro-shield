@@ -75,40 +75,40 @@ Però perquè funcioni amb la nostra llibreria farem una explicació a continuac
   :alt: IO DIGITAL
   :align: center
 
-Primer anem a EXTENSIONS
+Primer anem a GO PHYTON EDITOR
 
 .. image:: LIBRERIAS_7.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-Segun busquem la llibreria MICROSHIELD
+Segun mirem com es l´editor, botons i pestañes
 
 .. image:: LIBRERIAS_8.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-Tercer la agreguem la nostra llibreria
+Te el seu propi simulador con el MAKECODE
 
 .. image:: LIBRERIAS_9.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-Ara surtiran dues extensions noves
+Busquem PROYECTE i li donem click
 
 .. image:: LIBRERIAS_10.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-MicroShield i
+El mateix amb les nostres llibreries
 
 .. image:: LIBRERIAS_11.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-Neopixel
+I agreguem-les
 
