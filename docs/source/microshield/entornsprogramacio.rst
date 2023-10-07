@@ -35,22 +35,28 @@ Segun busquem la llibreria MICROSHIELD
   :alt: IO DIGITAL
   :align: center
 
-Tercer la agreguem
+Tercer la agreguem la nostra llibreria
 
 .. image:: LIBRERIAS_3.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
+Ara surtiran dues extensions noves
+
 .. image:: LIBRERIAS_4.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
+MicroShield i
+
 .. image:: LIBRERIAS_5.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
+
+Neopixel
 
 Python editor
 ------------
