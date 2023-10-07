@@ -40,3 +40,20 @@ Python editor
 Python és un excel·lent primer llenguatge basat en text per aprendre. Les seves instruccions i sintaxi es basen en llenguatge natural, cosa que fa que el codi sigui fàcil de llegir, comprendre i modificar.
 
 A més d'utilitzar-se àmpliament a l'educació, s'utilitza a la indústria, especialment a les àrees de ciència de dades i aprenentatge automàtic. Python no només és usat pels desenvolupadors de programari, sinó també per persones que treballen en camps tan diversos com la medicina, la física i les finances.
+
+Però perquè funcioni amb la nostra llibreria farem una explicació a continuació:
+
+.. image:: LIBRERIAS_3.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+.. image:: LIBRERIAS_4.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+.. image:: LIBRERIAS_5.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
