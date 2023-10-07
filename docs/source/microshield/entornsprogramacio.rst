@@ -70,42 +70,42 @@ A més d'utilitzar-se àmpliament a l'educació, s'utilitza a la indústria, esp
 
 Però perquè funcioni amb la nostra llibreria farem una explicació a continuació:
 
-.. image:: LIBRERIAS_6.png
+.. image:: LIBRERIA_6.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
 Primer anem a GO PHYTON EDITOR
 
-.. image:: LIBRERIAS_7.png
+.. image:: LIBRERIA_7.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
 Segun mirem com es l´editor, botons i pestañes
 
-.. image:: LIBRERIAS_8.png
+.. image:: LIBRERIA_8.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
 Te el seu propi simulador con el MAKECODE
 
-.. image:: LIBRERIAS_9.png
+.. image:: LIBRERIA_9.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
 Busquem PROYECTE i li donem click
 
-.. image:: LIBRERIAS_10.png
+.. image:: LIBRERIA_10.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
 El mateix amb les nostres llibreries
 
-.. image:: LIBRERIAS_11.png
+.. image:: LIBRERIA_11.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
