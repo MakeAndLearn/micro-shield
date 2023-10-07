@@ -14,6 +14,22 @@ Microsoft MakeCode és un editor en línia basat a la web que us permet crear pr
 
 També es coneix com a llenguatge de programació gràfic i és compatible amb tots els navegadors i plataformes web moderns.
 
+COM AGREGAR LLIBRERIES
+
+.. image:: LIBRERIAS_0.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+.. image:: LIBRERIAS_1.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+.. image:: LIBRERIAS_2.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
 
 Python editor
 ------------
