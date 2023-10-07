@@ -70,4 +70,45 @@ A més d'utilitzar-se àmpliament a l'educació, s'utilitza a la indústria, esp
 
 Però perquè funcioni amb la nostra llibreria farem una explicació a continuació:
 
+.. image:: LIBRERIAS_6.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+Primer anem a EXTENSIONS
+
+.. image:: LIBRERIAS_7.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+Segun busquem la llibreria MICROSHIELD
+
+.. image:: LIBRERIAS_8.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+Tercer la agreguem la nostra llibreria
+
+.. image:: LIBRERIAS_9.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+Ara surtiran dues extensions noves
+
+.. image:: LIBRERIAS_10.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+MicroShield i
+
+.. image:: LIBRERIAS_11.png
+  :width: 400
+  :alt: IO DIGITAL
+  :align: center
+
+Neopixel
 
