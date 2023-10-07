@@ -21,15 +21,21 @@ Però perquè funcioni amb la nostra llibreria farem una explicació a continuac
   :alt: IO DIGITAL
   :align: center
 
+Primer anem a EXTENSIONS
+
 .. image:: LIBRERIAS_1.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
+Segun busquem la llibreria MICROSHIELD
+
 .. image:: LIBRERIAS_2.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
+
+Tercer la agreguem
 
 .. image:: LIBRERIAS_3.png
   :width: 400
