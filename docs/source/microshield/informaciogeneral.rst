@@ -9,17 +9,34 @@ Descripció
 
 La micro:shield és una placa d’extensió que permet ampliar les possibilitats de la micro:bit fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
-Connecteu el vostre micro:shield a l'ordinador mitjançant un cable USB per començar a jugar i aprendre molt.
+A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen en aquest repositori. 
 
-A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen a continuació: 
+Les dimensions de la placa i els seus forats permeten que aquesta es pugui muntar sobre peces tipus LEGO.
 
 Dimensions
 ----------
-.. image:: DIMENS.png
-  :width: 400
-  :alt: DIMENSIONS
 
-80 x 80 mm o 8 x 8 cm
+80 x 80 mm
+
+Connexions
+----------
+La La micro:shield és una placa d'extensió de la placa micro:bit, aquesta es col·loca en la seva ranura frontal de manera que la seva matriu de leds no quedi al mateix costat de la pantalla com podem veure a continuació.
+
+(imatges)
+
+La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La micro:shield, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la micro:bit amb diferents voltatges i amb diferents components externs.
+
+    1. Connectors alligator
+    2. Pins GVS 3 V
+    3. Pins GVS Servomotors
+    4. Pins GVS 3 V - 5 V
+    5. Ports motors DC
+    6. Connectors motors pas a pas
+
+.. image:: CONNEX.png
+  :width: 400
+  :alt: CONNEXIONS
+
 
 Bateria
 -------
@@ -67,19 +84,3 @@ La micro:shield disposa d’un brunzidor i un connector jack connectats al pin P
 .. image:: BRUZIDOR.png
   :width: 400
   :alt: BRUZIDOR
-
-Connexions
-----------
-
-La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La micro:shield, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la micro:bit amb diferents voltatges i amb diferents components externs.
-
-    1. Connectors alligator
-    2. Pins GVS 3 V
-    3. Pins GVS Servomotors
-    4. Pins GVS 3 V - 5 V
-    5. Ports motors DC
-    6. Connectors motors pas a pas
-
-.. image:: CONNEX.png
-  :width: 400
-  :alt: CONNEXIONS
