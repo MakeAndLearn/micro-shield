@@ -8,13 +8,13 @@ Makecode
   :alt: Entorn de programació microsoft makecode per a micro:bit
   :align: center
 
-`Microsoft MakeCode <https://makecode.microbit.org/#>`_ per a micro:bit és un editor en línia basat a la web que us permet crear programes utilitzant blocs amb funcions específiques. 
+`Microsoft MakeCode <https://makecode.microbit.org/#>`_ per a micro:bit és un editor en línia basat a la web que permet crear programes utilitzant blocs amb funcions específiques. 
 
 També es coneix com a llenguatge de programació gràfic i és compatible amb tots els navegadors i plataformes web moderns.
 
 La placa micro:shield conté elements complexes de programar i que podem utilitzar fàcilment mitjançant la seva llibreria que es pot importar seguint els passos indicats a continuació.
 
-Primer anem a l'apartat de blocks "extensions" -> "+ extensions"
+Primer anem a l'apartat de blocs *+ extensions*
 
 .. image:: LIBRERIAS_0.png
   :width: 400
@@ -42,20 +42,23 @@ Cliquem sobre la llibreria que volem importar
   :alt: Previsualització blocs importats
   :align: center
 
-Blocks llibreria micro:shield
+Blocs llibreria microshield
 
 .. image:: LIBRERIAS_4.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
-Blocks llibreria didacbot
+Blocs llibreria didacbot
 
 .. image:: LIBRERIAS_4.png
   :width: 400
   :alt: IO DIGITAL
   :align: center
 
+La llibreria inclou els blocs per poder controlar motors pas a pas, servos i motors DC.
+
+(imatge)
 
 Python editor
 ------------
@@ -68,9 +71,11 @@ Disposem de l'entorn de programació `python per a micro:bit <https://python.mic
   :width: 400
   :alt: Visualització de l'entorn de programació python de micro:bit
 
-A més d'utilitzar-se àmpliament a l'educació, s'utilitza a la indústria, especialment a les àrees de ciència de dades i aprenentatge automàtic. Python no només és usat pels desenvolupadors de programari, sinó també per persones que treballen en camps tan diversos com la medicina, la física i les finances.
+La placa micro:shield conté elements complexes de programar i que podem utilitzar fàcilment mitjançant la seva llibreria que es pot importar seguint els passos indicats a continuació. 
 
-La placa micro:shield conté elements complexes de programar i que podem utilitzar fàcilment mitjançant la seva llibreria que es pot importar seguint els passos indicats a continuació.
+Per utilitzar els motors amb la placa micro:shield haurem de descarregar aquest llibreria.
+
+:download:`Llibreria motor.py <llibreries/motor.py>`
 
 Cliquem a l'apartat projecte de la part esquerra de l'entorn
 
@@ -85,10 +90,13 @@ Busquem les llibreries en l'ordinador i cliquem a obrir
   :alt: IO DIGITAL
   :align: center
 
-Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel·leccionar e4l paper amb l'engranatge i sel·leccionar "afegir arxiu". Una vegada seleccionat en tots els arxius oberts podem clicar a confirmar
+Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel·leccionar el paper amb l'engranatge i sel·leccionar "afegir arxiu". Una vegada seleccionat això en tots els arxius oberts podem clicar a confirmar.
 
 (imatge)
 
 Des del document main.py podrem ara utilitzar les funcions de la llibreria.
 
+Les funcions de la llibreria són:
 
+- motor.DC(pin, velocitat)
+- motor.servo(pin, posició)
