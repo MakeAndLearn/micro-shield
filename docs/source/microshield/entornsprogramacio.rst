@@ -3,8 +3,16 @@ Entorns de programació
 
 Makecode
 ------------
-.. image:: img/ep/INICIO_3.png
-  :width: 400
+
+|pic1| |pic2|
+
+.. |pic1| image:: img/ep/INICIO_1.png
+   :width: 45%
+
+.. |pic2| image:: img/ep/INICIO_4.png
+   :width: 45%
+
+.. image:: img/ep/INICIO_1.png
   :alt: Entorn de programació microsoft makecode per a micro:bit
   :align: center
 
