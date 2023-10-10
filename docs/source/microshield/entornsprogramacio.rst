@@ -42,23 +42,19 @@ Cliquem sobre la llibreria que volem importar
   :alt: Previsualització blocs importats
   :align: center
 
-Blocs llibreria microshield
+La llibreria microshield inclou els blocs per poder controlar motors pas a pas, servos i motors DC.
 
 .. image:: LIBRERIAS_4.png
   :width: 400
-  :alt: IO DIGITAL
+  :alt: Visualització blocs llibreria microshield
   :align: center
 
-Blocs llibreria didacbot
+La llibreria didacbot inclou blocs que ens poden ser útils per al control d'un robot de dues rodes utilitzant la micro:sield ja sigui amb motors DC o motors pas a pas.
 
-.. image:: LIBRERIAS_4.png
+.. image:: LIBRERIAS_5.png
   :width: 400
-  :alt: IO DIGITAL
+  :alt: Visualització dels blocs de la llibreria didacbot
   :align: center
-
-La llibreria inclou els blocs per poder controlar motors pas a pas, servos i motors DC.
-
-(imatge)
 
 Python editor
 ------------
@@ -87,7 +83,6 @@ Busquem les llibreries en l'ordinador i cliquem a obrir
 
 .. image:: LIBRERIA_10.png
   :width: 400
-  :alt: IO DIGITAL
   :align: center
 
 Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel·leccionar el paper amb l'engranatge i sel·leccionar "afegir arxiu". Una vegada seleccionat això en tots els arxius oberts podem clicar a confirmar.
