@@ -3,7 +3,7 @@ Entorns de programació
 
 Makecode
 ------------
-.. image:: INICIO_3.png
+.. image:: img/ep/INICIO_3.png
   :width: 400
   :alt: Entorn de programació microsoft makecode per a micro:bit
   :align: center
@@ -16,42 +16,42 @@ La placa micro:shield conté elements complexes de programar i que podem utilitz
 
 Primer anem a l'apartat de blocs *+ extensions*
 
-.. image:: LIBRERIAS_0.png
+.. image:: img/ep/LIBRERIAS_0.png
   :width: 400
   :alt: Espai d'instal·lació de llibreries en microsoft makecode per a micro:bit
   :align: center
 
 Busquem la llibreria MICROSHIELD
 
-.. image:: LIBRERIAS_1.png
+.. image:: img/ep/LIBRERIAS_1.png
   :width: 400
   :alt: Cerca de llibreria en microsoft makecode per a micro:bit
   :align: center
 
 Veurem que apareixen dues extensions. Les dues inclouen la llibreria de la micro:shield. La de micro:shield és la més simple mentre que la de didacbot inclou funcions que ens poden ser útils per al moviment d'un robot de dues rodes.
 
-.. image:: LIBRERIAS_2.png
+.. image:: img/ep/LIBRERIAS_2.png
   :width: 400
   :alt: Resutat de cerca llibreries en microsoft makecode per a micro:bit
   :align: center
 
 Cliquem sobre la llibreria que volem importar
 
-.. image:: LIBRERIAS_3.png
+.. image:: img/ep/LIBRERIAS_3.png
   :width: 400
   :alt: Previsualització blocs importats
   :align: center
 
 La llibreria microshield inclou els blocs per poder controlar motors pas a pas, servos i motors DC.
 
-.. image:: LIBRERIAS_4.png
+.. image:: img/ep/LIBRERIAS_4.png
   :width: 400
   :alt: Visualització blocs llibreria microshield
   :align: center
 
 La llibreria didacbot inclou blocs que ens poden ser útils per al control d'un robot de dues rodes utilitzant la micro:sield ja sigui amb motors DC o motors pas a pas.
 
-.. image:: LIBRERIAS_5.png
+.. image:: img/ep/LIBRERIAS_5.png
   :width: 400
   :alt: Visualització dels blocs de la llibreria didacbot
   :align: center
@@ -63,7 +63,7 @@ Python és un llenguatge basat en text. Les seves instruccions i sintaxi es base
 
 Disposem de l'entorn de programació `python per a micro:bit <https://python.microbit.org/v/3>`_ per poder programar aquesta placa fàcilment.
 
-.. image:: INICIO_5.png
+.. image:: img/ep/INICIO_5.png
   :width: 400
   :alt: Visualització de l'entorn de programació python de micro:bit
 
@@ -75,13 +75,13 @@ Per utilitzar els motors amb la placa micro:shield haurem de descarregar aquest 
 
 Cliquem a l'apartat projecte de la part esquerra de l'entorn
 
-.. image:: LIBRERIA_9.png
+.. image:: img/ep/LIBRERIA_9.png
   :width: 400
   :align: center
 
 Busquem les llibreries en l'ordinador i cliquem a obrir
 
-.. image:: LIBRERIA_10.png
+.. image:: img/ep/LIBRERIA_10.png
   :width: 400
   :align: center
 
