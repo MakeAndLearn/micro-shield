@@ -92,20 +92,20 @@ Busquem les llibreries en l'ordinador i cliquem a obrir
 
 Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel·leccionar el paper amb l'engranatge i sel·leccionar "afegir arxiu". Una vegada seleccionat això en tots els arxius oberts podem clicar a confirmar.
 
-|pic1|  |pic2|
+|pic3|  |pic4|
 
-.. |pic1| image:: img/ep/PYTHONLL5.png
+.. |pic3| image:: img/ep/PYTHONLL5.png
    :width: 48%
 
-.. |pic2| image:: img/ep/INICIO_6.png
+.. |pic4| image:: img/ep/INICIO_6.png
    :width: 48%
 
-|pic1|  |pic2|
+|pic5|  |pic5|
 
-.. |pic1| image:: img/ep/PYTHONLL7.png
+.. |pic5| image:: img/ep/PYTHONLL7.png
    :width: 48%
 
-.. |pic2| image:: img/ep/INICIO_8.png
+.. |pic6| image:: img/ep/INICIO_8.png
    :width: 48%
 
 Finalment importem la llibreria al main.py afegint la líniaa d'importació  
