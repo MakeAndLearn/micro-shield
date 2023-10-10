@@ -1,4 +1,4 @@
-Programació elements de la placa
+Programació dels elements de la placa
 =====
 
 
@@ -7,11 +7,11 @@ Brunzidor
 
 El brunzidor de la micro:shield està connectat al pin 0 de la placa micro:bit. En les plaques micro:bit V2 ja disposem de brunzidor integrat, en el cas de les micro:bits V1 s'utilitzarà el brunzidor de la micro:shield.
 
-Per programar aquest element utilitzarem els blocks de l'apartat music.
+Per programar aquest element utilitzarem els blocs de l'apartat *música*.
 
 (imatge)
 
-Seguidament podem veure un exemple de programació perque soni una melodia amb el brunzidor.
+Seguidament, podem veure un exemple de programació perquè soni una melodia amb el brunzidor.
 
 .. raw:: html
 
@@ -21,21 +21,21 @@ Seguidament podem veure un exemple de programació perque soni una melodia amb e
 LEDS RGB
 ------------
 
-Els leds de la placa micro:shield es troven a la part frontal de la mateixa. Disposem de 4 leds RGB connectats al pin 16 de la micro:bit. Aquests leds es programen mitjançant la llibreria neopixel que podem trobar a extensiones.
+Els leds de la placa micro:shield es troven a la part frontal de la mateixa. Disposem de 4 leds RGB connectats al pin 16 de la micro:bit. Aquests leds es programen mitjançant la llibreria neopixel que podem trobar a *extensiones*. Instal·lant la llibreria de la *micro:shield* també se'ns importarà per defecte la llibreria neopixel.
 
 Importació de la llibreria
 ------------
-Clicar a l'apartat de programació "extensions".
+Clicar a l'apartat de programació *extensiones*.
 (imatge)
 Escriure el nom de l'extensió, neopixel, en el cercador.
 (imatge)
-Sel·leccionar la llibreria.
+Seleccionar la llibreria.
 (imatge)
 Ja tenim els blocs disponibles a l'apartat de neopixel.
 
 Programació dels leds
 ------------
-El primer pas essencial és declarar els leds que tenim connectats i els pins en que es troven amb el primer bloc de l'apartat neopixel.
+El primer pas essencial és declarar els leds que tenim connectats i els pins en què es troben amb el primer bloc de l'apartat neopixel.
 
 .. raw:: html
 
