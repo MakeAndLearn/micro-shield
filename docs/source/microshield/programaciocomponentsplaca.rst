@@ -11,6 +11,7 @@ Brunzidor
 
 En aquest exemple farem soroll gràcies al brunzidor intern de la micro:bit, al programa primer dirà SOROLL i després en farà algun.
 
+..:raw:html
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S02047-74301-22775-72711" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe>
 
 
