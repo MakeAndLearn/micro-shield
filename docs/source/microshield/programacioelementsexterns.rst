@@ -1,68 +1,105 @@
 Programació d'elements en els diferents connectors
 =====
 
+Per utilitzar els pins d'entrada o sortida digital podem utilitzar els pins indicats en la imatge.
+
+(imatge)
+
+Cada pin té el seu nom a la part superior, exemple P7. Els pins grocs funcionen amb un voltatge de 3,3V. Els pins blaus poden funcionar a 3,3V o 5V. Això es configura manualment a través de l'interruptor indicat.
+
+(imatge)
+
+Per programar aquestes sortides podem utilitzar els blocs de l'apartat pins. 
+
 Entrades/sortides digitals
 ------------
 
-.. image:: IODIGITAL.png
-  :width: 400
-  :alt: IO DIGITAL
+- En aquest codi activem i desactivem la sortida durant 1 segon.
 
-En aquest programa farem que al moure la Micro:Bit assenyali el Nord Magnètic m'entre il·luminen una tira led de color roig.
+(codi)
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S16112-11337-99351-89819" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+- En aquest  codi activem una sortida analògica en diferents valors. Cada valor està activat 1 segon.
+
+(codi)
 
 Entrades/sortides analògiques
 ------------
 
-.. image:: IOANALOG.png
-  :width: 400
-  :alt: IO ANALOGIC
+- En aquest codi es mostra la lectura digital del pin 4 per la matriu de leds de la micro:bit.
 
-En aquest exemple farem servir el micròfon i logo de la Micro:Bit per quan senti un soroll il·lumini una tira led de color taronja i quan cliquem el LOGO MICROBIT canvi de color la tira led a verd.
+(codi)
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S71262-27680-97557-44981" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+- En aquest codi es mostra la lectura analògica del pin X per la matriu de leds de la micro:bit.
+
+(codi)
 
 Servos
 ------------
 
-.. image:: SERVOS.png
-  :width: 400
-  :alt: SERVOMOTORES
+Per utilitzar servos amb la placa micro:shield els connectarem als pins indicats en la imatge.
 
-En aquest exemple farem que el Servo 1 vagi a 90ª y el Servo 2 a 180ª, tot m'entre diu HOLA amb la Micro:Bit.
+(imatge)
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:S09192-70833-86317-95292" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+Els servos els podrem programar mitjançant els blocs de servo de l'apartat de pins o el bloc de servo de la llibreria micro:shield.
+
+- Programa de moviment del servo en 3 posicions utilitzant blocs de l'apartat pins.
+
+(codi)
+
+- Programa de moviment del servo en 3 posicions utilitzant blocs de la llibreria microshield.
+
+(codi)
 
 Motor DC
 ------------
 
-.. image:: MOTOR_DC.png
-  :width: 400
-  :alt: MOTOR DC
+El motor DC es connecta a la microshield en els connectors indicats en la imatge.
 
-En aquest programa farem que en pitjar A el Motor 1 giri en sentit horari i que quan pitgem B giri el Motor 2 en sentit antihorari, tot m'entra és veu una cara a la micro:bit y sona una cançó de fons.
+(imatge)
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S03751-85139-23360-20565" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+La micros:shield disposa de quatre ports de M1 a M4 amb dos connectors etiquetats cada un amb els signes + o -. Els motors DC funcionen amb dos cables un negre i un vermell. Utilitzarem un tornavís pla per fixar els cables en el connector. Preferiblement, connectarem el cable vermell al connector amb el signe + i el cable negre en el connector amb el signe -.
+
+(video/giff)
+
+Per programar els motors haurem d'importar la llibreria de la micro:shield.
+
+- Programa per activar el motor en un sentit de gir
+
+(codi)
+
+- Programa per aturar el motor.
+
+(codi)
+
+- Programa que activa el motor en un sentit de gir durant un segon, l'atura durant un segon i l'activa en l'altre sentit de gir durant un segon.
+
+(codi)
+
 
 Motor pas a pas
 ------------
 
-.. image:: MOTOR_PAP.png
-  :width: 400
-  :alt: MOTOR PAP
+El motor pas a pas es connecta a la microshield en els connectors indicats en la imatge.
 
-En aquest exemple farem que el Motor PAP 1 fasi dues rotacions y despres lo mateix amb el Motor PAP, tot m'entre surt el numero 10.
+(imatge)
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S00993-50067-73080-94146" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+La micros:shield disposa de dos connectors de motor pas a pas. 
+
+Per programar els motors haurem d'importar la llibreria de la micro:shield.
+
+- Programa per fer girar el motor 90º.
+
+(codi)
+
+- Programa per fer girar el motor 180 passos.
+
+(codi)
 
 I2C
 ------------
 
-.. image:: I2C.png
-  :width: 400
-  :alt: I2C
+Els components I2C es poden connectar en els connectors indicats en la imatge.
 
-En aquest exemple farem servir una pantalla oled 128x64 y la seva llibreria per la comunicacio I2C per medir la temperatura.
+(imatge)
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S16557-83647-42940-80006" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+Depenent del component utilitzat s'haurà d'importar la seva pròpia llibreria per poder programar-lo.
