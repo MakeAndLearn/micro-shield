@@ -3,7 +3,7 @@ Informació general de la placa
 
 Descripció
 ----------
-.. image:: DESCRIP.png
+.. image:: img/general/perspectiva.png
   :width: 400
   :alt: DESCRIPCIO
 
