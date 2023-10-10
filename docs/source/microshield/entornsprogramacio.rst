@@ -4,17 +4,14 @@ Entorns de programació
 Makecode
 ------------
 
-|pic1| |pic2|
+|pic1|  |pic2|
 
 .. |pic1| image:: img/ep/INICIO_1.png
-   :width: 45%
+   :width: 48%
 
 .. |pic2| image:: img/ep/INICIO_4.png
-   :width: 45%
+   :width: 48%
 
-.. image:: img/ep/INICIO_1.png
-  :alt: Entorn de programació microsoft makecode per a micro:bit
-  :align: center
 
 `Microsoft MakeCode <https://makecode.microbit.org/#>`_ per a micro:bit és un editor en línia basat a la web que permet crear programes utilitzant blocs amb funcions específiques. 
 
@@ -71,7 +68,7 @@ Python és un llenguatge basat en text. Les seves instruccions i sintaxi es base
 
 Disposem de l'entorn de programació `python per a micro:bit <https://python.microbit.org/v/3>`_ per poder programar aquesta placa fàcilment.
 
-.. image:: img/ep/INICIO_5.png
+.. image:: img/ep/PYTHONLL2.png
   :width: 400
   :alt: Visualització de l'entorn de programació python de micro:bit
 
@@ -83,19 +80,41 @@ Per utilitzar els motors amb la placa micro:shield haurem de descarregar aquest 
 
 Cliquem a l'apartat projecte de la part esquerra de l'entorn
 
-.. image:: img/ep/LIBRERIA_9.png
+.. image:: img/ep/PYTHONLL3.png
   :width: 400
   :align: center
 
 Busquem les llibreries en l'ordinador i cliquem a obrir
 
-.. image:: img/ep/LIBRERIA_10.png
+.. image:: img/ep/PYTHONLL4.png
   :width: 400
   :align: center
 
 Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel·leccionar el paper amb l'engranatge i sel·leccionar "afegir arxiu". Una vegada seleccionat això en tots els arxius oberts podem clicar a confirmar.
 
-(imatge)
+|pic1|  |pic2|
+
+.. |pic1| image:: img/ep/PYTHONLL5.png
+   :width: 48%
+
+.. |pic2| image:: img/ep/INICIO_6.png
+   :width: 48%
+
+|pic1|  |pic2|
+
+.. |pic1| image:: img/ep/PYTHONLL7.png
+   :width: 48%
+
+.. |pic2| image:: img/ep/INICIO_8.png
+   :width: 48%
+
+Finalment importem la llibreria al main.py afegint la líniaa d'importació  
+.. code-block:: python 
+  import motor.py
+
+.. image:: img/ep/PYTHONLL9.png
+  :width: 400
+  :align: center
 
 Des del document main.py podrem ara utilitzar les funcions de la llibreria.
 
