@@ -9,11 +9,17 @@ Brunzidor
   :width: 400
   :alt: BRUNZIDOR
 
-En aquest exemple farem soroll gràcies al brunzidor intern de la micro:bit, al programa primer dirà SOROLL i després en farà algun.
+El brunzidor de la micro:shield està connectat al pin 0 de la placa micro:bit. En les plaques V2 ja disposem de brunzidor integrat a la placa micro:bit. En el cas de les micro:bits V1 s'utilitzarà el brunzidor de la micro:shield.
+
+Per programar aquest element utilitzarem els blocks de l'apartat music.
+
+(imatge)
+
+Seguidament podem veure un exemple de programació perque soni una melodia amb el brunzidor.
 
 .. raw:: html
 
-  <div style="position:relative;height:auto;width:50vw;padding-bottom:112%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S02047-74301-22775-72711" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+  <div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:S40216-52246-16388-51582" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
 
 LEDS RGB
