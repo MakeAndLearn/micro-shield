@@ -26,10 +26,10 @@ La La micro:shield és una placa d'extensió de la placa micro:bit, aquesta es c
 
 La placa micro:bit disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La micro:shield, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la micro:bit amb diferents voltatges i amb diferents components externs.
 
-    1. Connectors alligator
+    1. Connectors *alligator*
     2. Pins GVS 3 V
-    3. Pins GVS Servomotors
-    4. Pins GVS 3 V - 5 V
+    3. Pins GVS servomotors
+    4. Pins GVS 3,3 V - 5 V
     5. Ports motors DC
     6. Connectors motors pas a pas
 
@@ -59,7 +59,7 @@ Interruptors
 
 La micro:shield disposa de 3 interruptors que tenen diferent utilitat.
 
-    1. Interruptor 3V-5V
+    1. Interruptor 3,3V-5V
     2. Interruptor ON/OFF
     3. Interruptor PIN0-Buzzer
 
