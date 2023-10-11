@@ -97,7 +97,7 @@ Se'ns mostrarÃ  un missatge confirmant que volem fer amb els arxius. Hem de selÂ
 .. |pic3| image:: img/ep/PYTHONLL5.png
    :width: 48%
 
-.. |pic4| image:: img/ep/INICIO_6.png
+.. |pic4| image:: img/ep/PYTHONLL6.png
    :width: 48%
 
 |pic5|  |pic5|
