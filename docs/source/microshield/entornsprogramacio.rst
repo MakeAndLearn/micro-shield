@@ -26,25 +26,18 @@ Primer anem a l'apartat de blocs *+ extensions*
   :alt: Espai d'instal·lació de llibreries en microsoft makecode per a micro:bit
   :align: center
 
-Busquem la llibreria MICROSHIELD
+Busquem la llibreria MICROSHIELD.
 
 .. image:: img/ep/LIBRERIAS_1.png
   :width: 400
   :alt: Cerca de llibreria en microsoft makecode per a micro:bit
   :align: center
 
-Veurem que apareixen dues extensions. Les dues inclouen la llibreria de la micro:shield. La de micro:shield és la més simple mentre que la de didacbot inclou funcions que ens poden ser útils per al moviment d'un robot de dues rodes.
+Veurem que apareixen dues extensions. Les dues inclouen la llibreria de la micro:shield. La de micro:shield és la més simple mentre que la de didacbot inclou funcions que ens poden ser útils per al moviment d'un robot de dues rodes. Cliquem sobre la llibreria que volem importar.
 
 .. image:: img/ep/LIBRERIAS_2.png
   :width: 400
   :alt: Resutat de cerca llibreries en microsoft makecode per a micro:bit
-  :align: center
-
-Cliquem sobre la llibreria que volem importar
-
-.. image:: img/ep/LIBRERIAS_3.png
-  :width: 400
-  :alt: Previsualització blocs importats
   :align: center
 
 La llibreria microshield inclou els blocs per poder controlar motors pas a pas, servos i motors DC.
@@ -78,13 +71,13 @@ Per utilitzar els motors amb la placa micro:shield haurem de descarregar aquest 
 
 :download:`Llibreria motor.py <llibreries/motor.py>`
 
-Cliquem a l'apartat projecte de la part esquerra de l'entorn
+Cliquem a l'apartat projecte de la part esquerra de l'entorn.
 
 .. image:: img/ep/PYTHONLL3.png
   :width: 400
   :align: center
 
-Busquem les llibreries en l'ordinador i cliquem a obrir
+Busquem les llibreries en l'ordinador i cliquem a obrir.
 
 .. image:: img/ep/PYTHONLL4.png
   :width: 400
