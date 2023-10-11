@@ -109,6 +109,7 @@ Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel�
    :width: 48%
 
 Finalment importem la llibreria al main.py afegint la líniaa d'importació  
+
 .. code-block:: python 
   import motor.py
 
