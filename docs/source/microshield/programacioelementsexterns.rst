@@ -65,7 +65,7 @@ Els servos els podrem programar mitjançant els blocs de servo de l'apartat de p
 Motor DC
 ------------
 
-El motor DC es connecta a la *micro:shield: en els connectors indicats en la imatge.
+El motor DC es connecta a la *micro:shield* en els connectors indicats en la imatge.
 
 (imatge indicant els connectors blaus de motor dc)
 
@@ -73,7 +73,7 @@ La *micros:shield* disposa de quatre ports de M1 a M4 amb dos connectors etiquet
 
 (video/giff connectant els cables)
 
-Per programar els motors haurem d'importar la llibreria de la *micro:shield*.
+Per programar els motors haurem d'importar la llibreria de la *microshield*.
 
 - Programa per activar el motor M1 en un sentit de gir.
 
