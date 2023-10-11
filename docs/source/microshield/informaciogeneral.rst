@@ -8,7 +8,7 @@ Descripció
 
 La *micro:shield* és una placa d’extensió que permet ampliar les possibilitats de la *micro:bit* fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
-A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen en aquest repositori. 
+A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen en aquestes pàgines.
 
 Les dimensions de la placa i els seus forats permeten que aquesta es pugui muntar sobre peces tipus LEGO.
 
@@ -70,12 +70,12 @@ La *micro:shield* disposa de 3 interruptors que tenen diferent utilitat.
 LEDS
 ----------
 
-La *micro:shield* té 4 LEDs Neopixel situats davant de la ranura on s'insereix la micro:bit. Aquests LEDs, que estan connectats internament a la placa a través del pin P16, es programaran igual que una tira de LEDs Neopixel.
+La *micro:shield* té 4 LEDs Neopixel situats davant de la ranura on s'insereix la micro:bit. Aquests LEDs, que estan connectats internament a la placa a través del pin P16, es programen igual que una tira de LEDs Neopixel.
 
 .. image:: img/general/ledsrgb.png
   :width: 400
 
-Bruzidors
+Brunzidors
 ----------
 
 La *micro:shield* disposa d’un brunzidor i un connector jack connectats al pin P0. Si no hi ha res connectat al port jack quan programem música sonarà el brunzidor intern de la placa. En connectar uns auriculars o un altaveu al port jack, el brunzidor deixarà de funcionar i sentirem la música pel perifèric connectat.
