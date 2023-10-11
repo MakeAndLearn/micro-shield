@@ -11,7 +11,7 @@ Contents
 --------
 
 .. toctree::
-   :caption: *MICRO:SHIELD*
+   :caption: MICRO:SHIELD
 
    microshield/informaciogeneral
    microshield/entornsprogramacio
