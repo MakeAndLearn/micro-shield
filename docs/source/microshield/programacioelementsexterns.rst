@@ -3,11 +3,13 @@ Programació d'elements en els diferents connectors
 
 Per utilitzar els pins d'entrada o sortida digital podem utilitzar els pins indicats en la imatge.
 
-(imatge senyalant connexions grogues esquerra)
+.. image:: img/ee/connexionsiodig.png
+   :width: 400
 
 Cada pin té el seu nom a la part superior, exemple P7. Els pins grocs funcionen amb un voltatge de 3,3V. Els pins blaus poden funcionar a 3,3V o 5V. Això es configura manualment a través de l'interruptor indicat.
 
-(imatge senyalant interruptor esquerra 3V -5V)
+.. image:: img/ee/interruptor3v5v.png
+   :width: 400
 
 Per programar aquestes entrades i sortides podem utilitzar els blocs de l'apartat pins. 
 
@@ -46,7 +48,8 @@ Servos
 
 Per utilitzar servos amb la placa *micro:shield* els connectarem als pins indicats en la imatge.
 
-(imatge destacant carril gvs groc central)
+.. image:: img/ee/connexioservo.png
+   :width: 400
 
 Els servos els podrem programar mitjançant els blocs de servo de l'apartat de pins o el bloc de servo de la llibreria *micro:shield*.
 
@@ -67,7 +70,8 @@ Motor DC
 
 El motor DC es connecta a la *micro:shield* en els connectors indicats en la imatge.
 
-(imatge indicant els connectors blaus de motor dc)
+.. image:: img/ee/connectormotordc.png
+   :width: 400
 
 La *micros:shield* disposa de quatre ports de M1 a M4 amb dos connectors etiquetats cada un amb els signes + o -. Els motors DC funcionen amb dos cables un negre i un vermell. Utilitzarem un tornavís pla per fixar els cables en el connector. Preferiblement, connectarem el cable vermell al connector amb el signe + i el cable negre en el connector amb el signe -.
 
@@ -99,7 +103,8 @@ Motor pas a pas
 
 El motor pas a pas es connecta a la *micro:shield* en els connectors indicats en la imatge.
 
-(imatge remarcant motors pas a pas)
+.. image:: img/ee/motorspasapas.png
+   :width: 400
 
 La *micros:shield* disposa de dos connectors de motor pas a pas. 
 
@@ -122,6 +127,7 @@ I2C
 
 Els components I2C es poden connectar en els connectors indicats en la imatge.
 
-(imatge remarcant connector I2C)
+.. image:: img/ee/connectorI2C.png
+   :width: 400
 
 Depenent del component utilitzat s'haurà d'importar la seva pròpia llibreria per poder programar-lo.
