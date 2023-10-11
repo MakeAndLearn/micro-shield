@@ -108,11 +108,9 @@ Se'ns mostrarà un missatge confirmant que volem fer amb els arxius. Hem de sel�
 .. |pic6| image:: img/ep/INICIO_8.png
    :width: 48%
 
-Finalment importem la llibreria al main.py afegint la líniaa d'importació  
+Finalment importem la llibreria al main.py afegint la líniaa d'importació.
 
-.. code-block:: python 
-  
-  import motor.py
+  import motor
 
 .. image:: img/ep/PYTHONLL9.png
   :width: 400
