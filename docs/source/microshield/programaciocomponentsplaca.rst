@@ -9,7 +9,13 @@ El brunzidor de la micro:shield està connectat al pin 0 de la placa micro:bit. 
 
 Per programar aquest element utilitzarem els blocs de l'apartat *música*.
 
-(imatge)
+|pic1|  |pic2|
+
+.. |pic1| image:: img/ei/MUSIC1.png
+   :width: 48%
+
+.. |pic2| image:: img/ei/MUSIC2.png
+   :width: 48%
 
 Seguidament, podem veure un exemple de programació perquè soni una melodia amb el brunzidor.
 
@@ -26,12 +32,24 @@ Els leds de la placa micro:shield es troven a la part frontal de la mateixa. Dis
 Importació de la llibreria
 ------------
 Clicar a l'apartat de programació *extensiones*.
-(imatge)
+
+.. image:: img/ei/NEOPIXEL1.png
+   :width: 400
+
 Escriure el nom de l'extensió, neopixel, en el cercador.
-(imatge)
+
+.. image:: img/ei/NEOPIXEL3.png
+   :width: 400
+
 Seleccionar la llibreria.
-(imatge)
+
+.. image:: img/ei/NEOPIXEL4.png
+   :width: 400
+
 Ja tenim els blocs disponibles a l'apartat de neopixel.
+
+.. image:: img/ei/NEOPIXEL5.png
+   :width: 400
 
 Programació dels leds
 ------------
@@ -53,10 +71,16 @@ Després de programar això ja podem programar els leds de la micro:shield. Segu
 
 .. raw:: html
 
+  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S93999-14672-29691-04469" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
 - Encendre 1 led d'un color
 
 .. raw:: html
 
+  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S57782-00626-66463-79255" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+
 - Pampallugues de colors
 
 .. raw:: html
+
+  <div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:S97665-55675-31425-53030" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
