@@ -21,10 +21,11 @@ Connexions
 ----------
 La *micro:shield* és una placa d'extensió de la placa *micro:bit*, aquesta es col·loca en la seva ranura frontal de manera que la seva matriu de leds no quedi al mateix costat de la pantalla com podem veure a continuació.
 
-.. image:: img/general/generalmicrobitperspectivaslide.png
+|pic1| |pic2|
+.. |pic1| image:: img/general/generalmicrobitperspectivaslide.png
   :width: 400
 
-.. image:: img/general/generalmicrobitperspectiva.png
+.. |pic2| image:: img/general/generalmicrobitperspectiva.png
   :width: 400
 
 La placa *micro:bit* disposa de 20 pins de connexió dels quals només 3 són fàcilment accessibles. La *micro:shield*, en canvi, ofereix connectors de diferents tipus per poder accedir fàcilment a tots els pins de la *micro:bit* amb diferents voltatges i amb diferents components externs.
