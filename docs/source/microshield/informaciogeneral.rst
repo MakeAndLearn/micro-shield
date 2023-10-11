@@ -8,7 +8,7 @@ Descripció
 
 La *micro:shield* és una placa d’extensió que permet ampliar les possibilitats de la *micro:bit* fent més accessibles els pins d’aquesta amb diferents tipus de connectors.
 
-A més, aquesta placa d’extensió, incorpora diferents components que la fan ideal per a l’aula. Si mirem la placa, des de dalt, podem observar tots els components que s’especifiquen en aquestes pàgines.
+Aquesta placa d'extensió incorpora una bateria recarregable que aporta autonomia i diversos connectors que la fan ideal per l'aula, ja que permeten a infants de totes les edats treballar amb diferents sensors i actuadors.
 
 Les dimensions de la placa i els seus forats permeten que aquesta es pugui muntar sobre peces tipus LEGO.
 
